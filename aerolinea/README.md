@@ -24,7 +24,8 @@
 ---
 ### Ejercicios:
 
-1) Se desea mostrar en pantalla a los pasajeros la información sobre los próximos vuelos, ordenados por el más próximo a partir. **La información requerida es:**
+1) Se desea mostrar en pantalla a los pasajeros la información sobre los próximos vuelos, ordenados por el más próximo a partir. No se deben mostrar vuelos que partieron hace más de 30 minutos ni que van a partir en más de 12hs respecto del momento en que se ejecuta la query.
+2) **La información requerida es:**
     - Código de vuelo
     - Ciudad de destino
     - Hora de partida (en formato 24hs)
@@ -36,6 +37,6 @@
     - Documento
     - Nacionalidad (nombre del país)
 ######
-3) Para el sistema de check-in, también se requiere modificar el estado del campo "checked_in" del pasajero una vez que lo haya realizado. Realizar query que actualice dicho valor.
+3) Para el sistema de check-in, también se requiere modificar el estado del campo "checked_in" del pasajero una vez que lo haya realizado. Realizar query que actualice dicho valor, especificando el documento del usuario.
 ######
 4) 
