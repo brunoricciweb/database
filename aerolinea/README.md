@@ -21,8 +21,8 @@
 
 #####
 3) Guardar las queries con los datos de prueba en un archivo, por si hubiera que volver a cargarlos eventualmente.
-
-#### Ejercicios:
+---
+### Ejercicios:
 
 1) Se desea mostrar en pantalla a los pasajeros la información sobre los próximos vuelos, ordenados por el más próximo a partir. **La información requerida es:**
     - Código de vuelo
