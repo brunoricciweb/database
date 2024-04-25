@@ -25,7 +25,7 @@
 ### Ejercicios:
 
 1) Se desea mostrar en pantalla a los pasajeros la información sobre los próximos vuelos, ordenados por el más próximo a partir. No se deben mostrar vuelos que partieron hace más de 30 minutos ni que van a partir en más de 12hs respecto del momento en que se ejecuta la query.
-2) **La información requerida es:**
+**La información requerida es:**
     - Código de vuelo
     - Ciudad de destino
     - Hora de partida (en formato 24hs)
