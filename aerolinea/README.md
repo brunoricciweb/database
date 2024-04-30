@@ -41,4 +41,6 @@
 ######
 4) Obtener todos los aviones disponibles, ordenados por consumo, apareciendo el que menos consume primero y el que más consume, al final.
 ######
-5) 
+5) Mostrar la cantidad de pasajeros de cada nacionalidad que hay cargados en el sistema. Ordenar de mayor cantidad a menor cantidad.
+######
+6) 
