@@ -43,4 +43,6 @@
 ######
 5) Mostrar la cantidad de pasajeros de cada nacionalidad que hay cargados en el sistema. Ordenar de mayor cantidad a menor cantidad.
 ######
-6) 
+6) Mostrar cuántos vuelos realizó cada avión, ordenados de mayor cantidad a menor cantidad. Mostrar patente, modelo y cantidad de vuelos.
+######
+7) 
