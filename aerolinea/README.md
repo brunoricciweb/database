@@ -39,4 +39,6 @@
 ######
 3) Para el sistema de check-in, también se requiere modificar el estado del campo "checked_in" del pasajero una vez que lo haya realizado. Realizar query que actualice dicho valor, especificando el documento del usuario.
 ######
-4) 
+4) Obtener todos los aviones disponibles, ordenados por consumo, apareciendo el que menos consume primero y el que más consume, al final.
+######
+5) 
