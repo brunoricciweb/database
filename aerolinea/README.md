@@ -43,6 +43,9 @@
 ######
 5) Mostrar la cantidad de pasajeros de cada nacionalidad que hay cargados en el sistema. Ordenar de mayor cantidad a menor cantidad.
 ######
-6) Mostrar cuántos vuelos realizó cada avión, ordenados de mayor cantidad a menor cantidad. Mostrar patente, modelo y cantidad de vuelos.
+6) Mostrar cuántos vuelos realiza cada avión, ordenados de mayor cantidad a menor cantidad. Mostrar patente, modelo y cantidad de vuelos.
 ######
-7) 
+7) Mostrar los vuelos ordenados por consumo de combustible. Mostrar código de vuelo, y qué consumo de combustible tiene en función del avión asignado.
+######
+8) Ordenar los vuelos por duración (en tiempo), ordenados de mayor a menor.
+9) A partir de la duración de cada vuelo, obtener cuántos litros de combustible se utiliza para cada uno. Mostrar código de vuelo, ciudad de origen, ciudad de destino y litros de combustible totales. Esta última columna debe aparecer con el nombre "litros_consumidos"
