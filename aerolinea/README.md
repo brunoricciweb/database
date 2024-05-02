@@ -49,3 +49,14 @@
 ######
 8) Ordenar los vuelos por duración (en tiempo), ordenados de mayor a menor.
 9) A partir de la duración de cada vuelo, obtener cuántos litros de combustible se utiliza para cada uno. Mostrar código de vuelo, ciudad de origen, ciudad de destino y litros de combustible totales. Esta última columna debe aparecer con el nombre "litros_consumidos"
+#####
+10) Crear función que permita hacer el check-in (ver punto 3). La misma debe poder invocarse y sin devolver nada como resultado, ésta debe actualizar el campo checked_in del ticket correspondiente. Debe tomar el `dni` y el `cod_vuelo` como parámetros de entrada.
+    - Luego, hacer validación para que, si el pasajero de ese vuelo ya tiene realizado el check-in, no vuelva a sobrescribir el campo, sino que levante una excepción (raise exception).
+######
+11) Crear una función "setAsiento" que asigne el asiento al pasajero. Debe recibir el código de vuelo, el DNI y el numero de asiento a asignar. A su vez, la función debe validar que en ese vuelo no esté ocupado el asiento que se desea asignar. En caso de que se elija un asiento ocupado, levantar una excepción. En caso de que el asiento esté disponible, actualizar el campo `asiento`.
+######
+
+
+borrador
+
+12) Crear un trigger __'trigger_assign_gate'__ que se ejecute después de actualizar el campo 'checked_in' de la tabla **tickets**. Cuando la ocupación del vuelo supere el 50%, se debe 
