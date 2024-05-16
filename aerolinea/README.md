@@ -1,6 +1,9 @@
 
 ## Base de datos de aerolínea
 
+![diagram](https://github.com/brunoricciweb/database/assets/114032017/604d4c73-ad2a-4aa2-96f5-ef3692b16301)
+
+
 1) A partir del diagrama relacional, hacer las queries necesarias para crear las tablas. Guardar estas consultas en un archivo `.sql`. 
 #####
 2) Usando las herramientas de generación de datos, poblar las tablas con datos de prueba:
